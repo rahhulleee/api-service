@@ -1,0 +1,32 @@
+/* src/components/Auth.css */
+.auth-container {
+    width: 400px;
+    margin: 100px auto;
+    padding: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .auth-container h2 {
+    margin-bottom: 20px;
+    color: #1890ff;
+  }
+  
+  .auth-form {
+    max-width: 400px;
+  }
+  
+  .auth-button {
+    width: 100%;
+  }
+  
+  .auth-container .ant-input {
+    height: 40px;
+  }
+  
+  .auth-container .ant-input-affix-wrapper {
+    height: 40px;
+  }
+  
